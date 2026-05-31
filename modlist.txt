@@ -1,1 +1,83 @@
+# ========================
+# World Generation
+# ========================
+terralith
+tectonic
 
+# ========================
+# Dungeons & Taverns
+# ========================
+dungeons-and-taverns
+dungeons-and-taverns-stronghold-overhaul
+dungeons-and-taverns-ancient-city-overhaul
+dungeons-and-taverns-woodland-mansion-overhaul
+dungeons-and-taverns-pillager-outpost-overhaul
+dungeons-and-taverns-swamp-hut-overhaul
+
+# ========================
+# Create Mod & Addons
+# ========================
+create
+create-big-cannons
+create-tfmg
+create-diesel-generators
+create-tracks+
+
+# ========================
+# Performance & Shaders
+# ========================
+iris
+iris-flw-compat
+immediatelyfast
+entityculling
+ferrite-core
+modernfix
+chunky
+
+# ========================
+# Audio & Immersion
+# ========================
+sound-physics-remastered
+ambientsounds
+immersive-melodies
+what-are-they-up-to
+
+# ========================
+# Mobs & Animals
+# ========================
+naturalist
+ribbits
+
+# ========================
+# Food, Decor & Items
+# ========================
+farmers-delight
+handcrafted
+exposure
+
+# ========================
+# Quality of Life & UI
+# ========================
+inventory-essentials
+jade
+jade-addons-forge
+libipn
+trade-cycling
+trashslot
+
+# ========================
+# Libraries & APIs (Dependencies)
+# ========================
+lithostitched
+creativecore
+resourceful-lib
+yungs-api
+geckolib
+citadel
+balm
+coroutil
+kotlin-for-forge
+moonlight
+rpl
+sable
+scholar
